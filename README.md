@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Mahmudul Hasan
 
-<!--
-**hmahmudul852/hmahmudul852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 6+ years of experience building scalable APIs using Python.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • FastAPI • Flask  
+PostgreSQL • MySQL  
+Docker • Redis  
+REST APIs • JWT Authentication
+
+## 💼 Experience
+
+• 6+ years backend development  
+• Built high-performance REST APIs  
+• Designed authentication systems  
+• Worked with international clients
+
+## 📂 Featured Projects
+
+FastAPI Microservice Template  
+Authentication Service (JWT + OAuth2)  
+Task Management API  
+Real-time Chat Backend  
+API Rate Limiter
+
+## 🧠 Currently Learning
+
+System Design  
+Scalable Backend Architecture  
+Distributed Systems
+
+## 📫 Contact
+
+Email: hmahmudul852@gmail.com  
+GitHub: https://github.com/hmahmudul852  
+LinkedIn: https://linkedin.com/in/hmahmudul852  
+WhatsApp: https://wa.me/8801965702550  
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmahmudul852&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmudul852&layout=compact)
