@@ -36,10 +36,3 @@ Email: hmahmudul852@gmail.com
 GitHub: https://github.com/hmahmudul852  
 LinkedIn: https://linkedin.com/in/hmahmudul852  
 WhatsApp: https://wa.me/8801965702550  
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmahmudul852&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmudul852&layout=compact)
