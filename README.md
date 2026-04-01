@@ -11,18 +11,18 @@ REST APIs • JWT Authentication
 
 ## 💼 Experience
 
-• 6+ years backend development  
-• Built high-performance REST APIs  
-• Designed authentication systems  
-• Worked with international clients
+- 6+ years backend development  
+- Built high-performance REST APIs  
+- Designed authentication systems  
+- Worked with international clients
 
 ## 📂 Featured Projects
 
-• FastAPI Microservice Template  
-• Authentication Service (JWT + OAuth2)  
-• Task Management API  
-• Real-time Chat Backend  
-• API Rate Limiter
+- FastAPI Microservice Template  
+- Authentication Service (JWT + OAuth2)  
+- Task Management API  
+- Real-time Chat Backend  
+- API Rate Limiter
 
 ## 🧠 Currently Learning
 
