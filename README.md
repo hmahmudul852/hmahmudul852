@@ -18,17 +18,20 @@ REST APIs • JWT Authentication
 
 ## 📂 Featured Projects
 
-FastAPI Microservice Template  
-Authentication Service (JWT + OAuth2)  
-Task Management API  
-Real-time Chat Backend  
-API Rate Limiter
+• FastAPI Microservice Template  
+• Authentication Service (JWT + OAuth2)  
+• Task Management API  
+• Real-time Chat Backend  
+• API Rate Limiter
 
 ## 🧠 Currently Learning
 
-System Design  
-Scalable Backend Architecture  
-Distributed Systems
+- Backend engineering with Python (FastAPI, async architecture)
+- Designing scalable APIs and microservices
+- Integrating Large Language Models (LLMs) into applications via APIs
+- Building AI-powered systems (RAG, embeddings, vector search)
+- Developing full-stack applications (React + API integration)
+- Docker and deployment workflows
 
 ## 📫 Contact
 
